@@ -1,8 +1,8 @@
 # DS*
 Simple demo code for the paper 
 
-DS*: Tighter Lifting-Free Convex Relaxations for Quadratic Matching Problems
-F. Bernard, C. Theobalt, M. Moeller
+DS*: Tighter Lifting-Free Convex Relaxations for Quadratic Matching Problems,
+F. Bernard, C. Theobalt, M. Moeller,
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). June, 2018
 
 If you use this code you are required to cite this paper.
