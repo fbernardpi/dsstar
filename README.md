@@ -1,4 +1,4 @@
-# dsstar
+# DS*
 Simple demo code for the paper 
 
 DS*: Tighter Lifting-Free Convex Relaxations for Quadratic Matching Problems
