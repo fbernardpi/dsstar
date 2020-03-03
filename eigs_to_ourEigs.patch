@@ -1,0 +1,20 @@
+1c1
+< function  varargout = eigs(varargin)
+---
+> function  varargout = ourEigs(varargin)
+228a229
+> itCounter = 0;
+230c231,232
+< while (ido ~= 99)
+---
+> 
+> while (ido ~= 99 && itCounter < 200)
+237a240
+> 
+276c279
+<     
+---
+>  
+282a286,287
+>     itCounter = itCounter + 1;
+>     
